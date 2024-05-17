@@ -19,8 +19,8 @@ async function sendEmailVerification(email, verificationCode) {
       subject: "Welcome to MindVerse: Unlock Your Mind's Potential",
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
-          <h1 style="color: #008080; text-align: center;">Welcome to MindVerse</h1>
-          <p style="text-align: center;">Thank you for joining MindVerse, where your ideas come to life!</p>
+          <h1 style="color: #008080; text-align: center;">Welcome to MCA </h1>
+          <p style="text-align: center;">Thank you for joining this community</p>
           <hr style="border: none; border-top: 2px solid #008080;">
           <p style="text-align: center;">To embark on a journey of self-discovery and creativity, please enter the following verification code:</p>
           <div style="text-align: center; padding: 20px; background-color: #f5f5f5; border-radius: 10px;">
